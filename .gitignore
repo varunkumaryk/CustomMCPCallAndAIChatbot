@@ -1,0 +1,14 @@
+# Visual Studio / .NET
+.vs/
+bin/
+obj/
+
+# User-specific files
+*.user
+*.suo
+
+# Logs
+*.log
+
+# Local settings / secrets
+.claude/

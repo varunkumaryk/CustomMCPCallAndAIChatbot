@@ -1,0 +1,6 @@
+@CustomMCPCallAndAIChatbot_HostAddress = http://localhost:5162
+
+GET {{CustomMCPCallAndAIChatbot_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
